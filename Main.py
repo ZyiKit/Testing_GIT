@@ -1,1 +1,1 @@
-print("The less rudimentary start")
+print("Rudimentary worry not")
