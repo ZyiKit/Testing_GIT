@@ -1,1 +1,1 @@
-print("The rudimentary start")
+print("The less rudimentary start")
